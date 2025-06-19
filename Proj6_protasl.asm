@@ -1,10 +1,5 @@
 TITLE Temperature Reverser      (Proj6_protasl.asm)
 
-; Author: Lev Protas
-; Last Modified: 06/07/2025
-; OSU Email Address: protasl@oregonstate.edu
-; Course: CS271 Section 400
-; Assignment Number: Project 6      Due Date: 06/08/2025
 ; Description:	This program reads a line of temperature readings from a file, 
 ;				it then converts the string-formatted integers into numeric values, 
 ;				and prints them in reverse order.
